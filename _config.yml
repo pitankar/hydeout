@@ -5,8 +5,8 @@ remote_theme:     fongandrew/hydeout
 
 # Setup
 title:            Piyush Itankar
-tagline:          'Random Notes'
-description:      'Random thoughts'
+tagline:          'Notes'
+description:      'Some random description here!'
 url:              https://pitankar.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link:  false
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
