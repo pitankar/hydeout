@@ -5,8 +5,8 @@ remote_theme:     fongandrew/hydeout
 
 # Setup
 title:            Piyush Itankar
-tagline:          'Irrational Notes'
-description:      'Irrational Notes!'
+tagline:          'Random Notes!'
+description:      'Traces left behind by a wandering mind!'
 url:              https://pitankar.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
